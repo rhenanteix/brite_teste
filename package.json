@@ -9,9 +9,9 @@
     "start": "npm run dev",
     "test": "npm run unit",
     "build": "node build/build.js",
-    "deploy": "gh-pages -d build",
-    "homepage": "https://rhenanteix.github.io/britecore_testBR/"
+    "deploy": "gh-pages -d build"
   },
+  "homepage": "https://rhenanteix.github.io/britecore_testBR/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.15",
