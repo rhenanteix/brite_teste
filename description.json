@@ -1,0 +1,14 @@
+{
+    "name"      : "Rhenan Silverio Teixeira",
+    "title"     : "Sr. Full Stack Developer",
+    "contact"   : {
+                    "e-mail": "rhenancontato@gmail.com",
+                    "skype" : "rhenan.teixeira",
+                    "phone" : "+(55) 41-8895-0911"
+                },
+    "education" : {
+                    "college" : "College Unisepe - Registro/SP - Vale do Ribeira",
+                    "graduationYear" : "2014",
+                    "Degree" : "Bachelor of Science (Analysis and systems development)"
+                }
+ }
