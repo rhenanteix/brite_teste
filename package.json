@@ -10,7 +10,7 @@
     "test": "npm run unit",
     "build": "node build/build.js",
     "deploy": "gh-pages -d build",
-    "homepage": "https://github.com/rhenanteix/britecore_testBR"
+    "homepage": "https://rhenanteix.github.io/britecore_testBR/"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
